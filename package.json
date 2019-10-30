@@ -1,0 +1,26 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CornetS28/weather-app.git"
+  },
+  "author": "Samuel Cornet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CornetS28/weather-app/issues"
+  },
+  "homepage": "https://github.com/CornetS28/weather-app#readme",
+  "devDependencies": {
+    "eslint": "^6.5.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "webpack": "^4.41.0"
+  }
+}
